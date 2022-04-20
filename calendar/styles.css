@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Poppins;
+}
+
+.clearspace {
+    border-right: solid 1px grey;
+}
+
+.days>.day {
+    text-align: center;
+    background-color: rgb(237, 237, 237);
+    border-top: solid 1px grey;
+    border-right: solid 1px grey;
+    font-size: 90%;
+}
+
+.date {
+    font-size: 80%;
+    margin-bottom: -5px;
+}
+
+.time {
+    text-align: right;
+    border-right: solid 1px grey;
+
+}
+
+.tile {
+    background-color: rgb(237, 237, 237);
+    border-top: solid 1px grey;
+    border-right: solid 1px grey;
+
+}
+
+.last {
+    border-bottom: solid 1px grey;
+}
+
+.tile:hover {
+    background-color: rgb(209, 209, 209);
+}
+
+.timedivider {
+    border-top: solid 1px grey;
+}
+
+/* .eight>.thu {
+    background-color: red;
+}
+
+.twothirty>.fr,
+.three>.fr {
+    background-color: red;
+    border: 0;
+} */
+
+.appointment {
+    background-color: dodgerblue;
+    border: 0;
+}

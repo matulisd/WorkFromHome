@@ -5,6 +5,10 @@
     font-family: Poppins;
 }
 
+.calendar {
+    margin-top: 50px;
+}
+
 .clearspace {
     border-right: solid 1px grey;
 }
